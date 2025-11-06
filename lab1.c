@@ -2,7 +2,7 @@
 *
 *	Autor: Santiago Bautista Velasquez
 *	Programa: lab1.c
-*	Fecha: 5 de Noviembre
+*	Fecha: 05/11/25
 *	Temas: Programación Paralela - Introducción a OpenMP
 *
 *--------------------------------------------------
