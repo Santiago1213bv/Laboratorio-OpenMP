@@ -1,0 +1,20 @@
+# ==== Makefile SENCILLO (como en clase) ====
+GCC   = gcc
+FLAGS = -fopenmp -lm
+
+all: lab1 lab2 lab3 lab4
+
+lab1: lab1.c
+	$(GCC) lab1.c -o lab1 $(FLAGS)
+
+lab2: lab2.c
+	$(GCC) lab2.c -o lab2 $(FLAGS)
+
+lab3: lab3.c
+	$(GCC) lab3.c -o lab3 $(FLAGS)
+
+lab4: lab4.c
+	$(GCC) lab4.c -o lab4 $(FLAGS)
+
+clean:
+	rm -f lab1 lab2 lab3 lab4
