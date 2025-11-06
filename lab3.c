@@ -2,7 +2,7 @@
 *
 *	Autor: Santiago Bautista Velásquez
 *	Programa: lab4.c
-*	Fecha: 5 de Noviembre
+*	Fecha: 05/11/25
 *	Temas: Programación Paralela - OpenMP (Uso de variables private)
 *
 *--------------------------------------------------
